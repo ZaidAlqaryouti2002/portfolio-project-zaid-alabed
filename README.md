@@ -3,7 +3,7 @@
 **Author:** Zaid Alabed  
 **Project:** Html & CSS Web Development Project  
 **Date:** September 2026  
-**Live Demo:** [View Live Website](https://zaidalqaryouti2002.github.io/portfolio-project-zaid-alabed/)
+**Live Demo:** [View Live Demo](https://zaidalqaryouti2002.github.io/portfolio-project-zaid-alabed/)
 ---
 
 ## Introduction
